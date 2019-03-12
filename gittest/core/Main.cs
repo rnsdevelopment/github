@@ -8,5 +8,9 @@ namespace core
 {
     public class Main
     {
+        public Main()
+        {
+
+        }
     }
 }
