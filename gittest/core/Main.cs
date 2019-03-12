@@ -24,5 +24,10 @@ namespace core
         {
             //hello from stu.
         }
+
+        public void Rowie()
+        {
+            //hello from rowie
+        }
     }
 }
