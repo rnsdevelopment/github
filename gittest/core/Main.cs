@@ -19,5 +19,10 @@ namespace core
             //rowie
             //nnnn
         }
+
+        public void Stuie()
+        {
+            //hello from stu.
+        }
     }
 }
