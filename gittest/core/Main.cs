@@ -16,7 +16,6 @@ namespace core
         public void StuTest()
         {
             //this is a test method.
-            //rowie
         }
     }
 }
