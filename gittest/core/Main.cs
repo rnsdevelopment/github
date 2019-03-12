@@ -23,6 +23,8 @@ namespace core
         public void Stuie()
         {
             //hello from stu.
+            string test = string.Empty;
+            DateTime nowUTC = DateTime.UtcNow;
         }
 
         public void Rowie()
