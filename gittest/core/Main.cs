@@ -12,5 +12,10 @@ namespace core
         {
             //ro
         }
+
+        public void StuTest()
+        {
+            //this is a test method.
+        }
     }
 }
