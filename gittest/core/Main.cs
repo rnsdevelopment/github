@@ -19,5 +19,10 @@ namespace core
             //rowie
             //nnnn
         }
+
+        public void Rowie()
+        {
+            //hello from rowie
+        }
     }
 }
