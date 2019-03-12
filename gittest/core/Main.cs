@@ -25,6 +25,7 @@ namespace core
             //hello from stu.
             string test = string.Empty;
             DateTime nowUTC = DateTime.UtcNow;
+            test = "stu";
         }
 
         public void Rowie()
